@@ -1,3 +1,6 @@
+Find me a lawyer. By using the open source Leaflet, users are able to find a Lawyer
+
+
 <img src="http://leafletjs.com/docs/images/logo.png" alt="Leaflet" />
 
 Leaflet is an open source JavaScript library for **mobile-friendly interactive maps**.
